@@ -1,7 +1,7 @@
 ---
-# Resultados das sequintes questões.
+# Resultados das seguintes situações.
 
-- Inserir 5 registros de com valores válidos na tabela department
+- Inserir 5 registros com valores válidos na tabela department
 
 - Consultar apenas os valores distintos do atributo building na tabela department
 
