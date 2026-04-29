@@ -35,7 +35,9 @@ Navegue até:
   - Servers → Databases → postgres
 
 Abra o Query Tool.
-Execute os scripts necessários.
+
+<img width="562" height="622" alt="image" src="https://github.com/user-attachments/assets/3226fccf-fe12-4fa3-8e8f-a8945edf4ecb" />
+
 
 <!-- ## 🗂️ Estrutura
 
